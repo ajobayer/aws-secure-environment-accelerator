@@ -14,8 +14,8 @@
   "dependencies": {
     "@aws-accelerator/installer": "link:",
     "aws-cdk-lib": "2.101.0",
-    "@aws-sdk/client-codepipeline": "3.435.0",
-    "@aws-sdk/client-sfn": "3.435.0",
+    "@aws-sdk/client-codepipeline": "3.529.0",
+    "@aws-sdk/client-sfn": "3.529.0",
     "aws-sdk-client-mock": "3.0.0",
     "constructs": "10.2.70"
   },
