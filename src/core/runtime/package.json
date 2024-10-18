@@ -23,7 +23,7 @@
     "@aws-accelerator/common-config": "workspace:*",
     "@aws-accelerator/common-outputs": "workspace:*",
     "adm-zip": "0.5.10",
-    "aws-sdk": "2.1473.0",
+    "aws-sdk": "2.1691.0",
     "ip-num": "1.5.1",
     "original-fs": "1.2.0",
     "uuid": "9.0.1"
