@@ -14,7 +14,7 @@
   "dependencies": {
     "@aws-accelerator/custom-resource-logs-add-subscription-filter-cloudwatch-event-runtime": "workspace:*",
     "@aws-accelerator/custom-resource-logs-add-subscription-filter-runtime": "workspace:*",
-    "aws-cdk-lib": "2.101.0",
+    "aws-cdk-lib": "2.160.0",
     "constructs": "10.2.70"
   },
   "devDependencies": {
