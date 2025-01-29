@@ -81,7 +81,7 @@
     "@types/js-yaml": "4.0.1",
     "@types/semver": "7.5.3",
     "aws-cdk": "2.101.0",
-    "aws-cdk-lib": "2.101.0",
+    "aws-cdk-lib": "2.177.0",
     "aws-sdk": "2.1473.0",
     "cdk-assets": "2.100.0",
     "constructs": "10.2.70",
