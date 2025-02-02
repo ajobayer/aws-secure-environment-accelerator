@@ -14,7 +14,7 @@
   "dependencies": {
     "@aws-accelerator/custom-resource-macie-enable-runtime": "workspace:*",
     "aws-cdk": "2.101.0",
-    "aws-cdk-lib": "2.101.0",
+    "aws-cdk-lib": "2.177.0",
     "constructs": "10.2.70"
   },
   "devDependencies": {
