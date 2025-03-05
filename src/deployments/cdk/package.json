@@ -83,7 +83,7 @@
     "aws-cdk": "2.101.0",
     "aws-cdk-lib": "2.101.0",
     "aws-sdk": "2.1473.0",
-    "cdk-assets": "2.100.0",
+    "cdk-assets": "3.0.0",
     "constructs": "10.2.70",
     "hash-sum": "2.0.0",
     "io-ts": "2.2.20",
