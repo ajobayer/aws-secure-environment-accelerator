@@ -83,7 +83,7 @@
     "aws-cdk": "2.101.0",
     "aws-cdk-lib": "2.101.0",
     "aws-sdk": "2.1473.0",
-    "cdk-assets": "2.100.0",
+    "cdk-assets": "3.0.0",
     "constructs": "10.2.70",
     "hash-sum": "2.0.0",
     "io-ts": "2.2.20",
@@ -94,7 +94,7 @@
     "promptly": "3.2.0",
     "proxy-agent": "6.3.1",
     "semver": "7.5.4",
-    "tempy": "1.0.1",
+    "tempy": "3.0.0",
     "uuid": "9.0.1"
   },
   "devDependencies": {
